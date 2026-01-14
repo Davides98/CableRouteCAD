@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+_gen_exe/build
+_gen_exe/dist
+_gen_exe/*.spec
+.vscode
+*.log
+*.zip
+*.dxf
+*.csv
