@@ -1,10 +1,10 @@
 __pycache__
 *.pyc
-_gen_exe/build
-_gen_exe/dist
-_gen_exe/*.spec
+_gen_exe/*
+!_gen_exe/dist/
+_gen_exe/dist/*
+!_gen_exe/dist/CableRouteCAD.exe
 .vscode
 *.log
 *.zip
-*.dxf
-*.csv
+
